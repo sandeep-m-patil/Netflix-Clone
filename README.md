@@ -1,5 +1,5 @@
 
-# Netflex Clone
+# Netflix Clone
 
 It is an simple Frontend Clone Website made by using pure JavaScript .
 
